@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de Ingeniería de Software. Me encanta aprender y siempre busco nuevas formas de mejorar mis habilidades. Tengo un gran interés en la tecnología y disfruto enfrentar retos que me permitan crecer como desarrollador.<br><br>Me apasiona participar en proyectos donde pueda poner en práctica lo que sé y, al mismo tiempo, aprender algo nuevo. Me gusta trabajar en equipo, resolver problemas y aportar ideas que marquen la diferencia. Mi objetivo es seguir desarrollándome como profesional y contribuir al éxito de los proyectos en los que participe.
+Estudiante de Ingeniería de Software. Me gusta aprender y  buscar nuevas formas de mejorar mis habilidades. Tengo un gran interés en la tecnología y disfruto enfrentar retos que me permitan crecer como desarrollador.<br><br>Me apasiona participar en proyectos donde pueda poner en práctica lo que sé y, al mismo tiempo, aprender algo nuevo. Me gusta resolver problemas y aportar ideas que marquen la diferencia. Mi objetivo es seguir desarrollándome como profesional y contribuir al éxito de los proyectos en los que participe.
 
 
 ## 🌐 Socials:
